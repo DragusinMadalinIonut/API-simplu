@@ -1,0 +1,17 @@
+body{
+    margin: 18px;
+    padding:24px;
+    background: rgba(249, 252, 249, 0.3)
+}
+
+div{
+  padding:8px;
+
+}
+ 
+
+button{
+    background-color:rgb(14, 14, 14);
+    color:white;
+}
+
